@@ -62,5 +62,5 @@ p {
 }
 
 .blink {
-	    animation: blink 0.01s steps(1, start) infinite alternate;
+	    animation: blink 0.5s steps(1, start) infinite alternate;
 }
